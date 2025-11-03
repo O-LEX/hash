@@ -1,0 +1,1 @@
+multiresolution hash encoding
